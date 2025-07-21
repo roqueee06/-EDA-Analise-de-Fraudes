@@ -1,5 +1,8 @@
 # 📊 | Análise de Fraudes
 Neste projeto, realizo uma análise exploratória de dados de transações fraudulentas na modalidade de cartão de crédito, afim de entender o comportamento de transações suspeitas.
+
+Linguagem utilizada: Python
+
 A [base de dados](https://www.kaggle.com/datasets/dhanushnarayananr/credit-card-fraud/code) utilizada neste projeto contém registros de transações realizadas, incluindo variáveis comportamentais relevantes, como:
 
 - Distância entre transações consecutivas;
