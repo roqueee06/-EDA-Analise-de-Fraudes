@@ -1,5 +1,5 @@
 # 📊 | Análise de Fraudes
-Neste projeto, realizo uma análise exploratória de dados de transações fraudulentas na modalidade de cartão de crédito, afim de entender o comportamento de transações suspeitas.
+Neste projeto, realizo uma análise exploratória de dados de transações fraudulentas na modalidade de cartão de crédito, a fim de entender o comportamento de transações suspeitas.
 
 Linguagem utilizada: Python
 
